@@ -1,5 +1,5 @@
 
-# H-BUDDY CAPSTONE
+# PETIS CAPSTONE
 
 This project is part of the (Studi Independen) program of Bangkit Academy 2024 by Google, GoTo, and Traveloka.
 
