@@ -11,7 +11,7 @@ This project is part of the (Studi Independen) program of Bangkit Academy 2024 b
 | Fadli Rahman    | C308B4KY133     | Cloud Computing     | Universitas Riau     |
 | Zikri Ahmad Maulana   | C308B4KY4624     | Cloud Computing    | Universitas Riau    |
 | Muhammad Syafiq Mu'ayyad    | M308B4KY3096     | Machine Learning    | Universitas Riau    |
-| Kartika Natalia Tumangger   | M308B4KX2145     | Mobile Development    | Universitas Riau    |
+| Kartika Natalia Tumangger   | M308B4KX2145     | Machine Learning    | Universitas Riau    |
 | M. Rafli Azriansyah   | M443B4KY2327      | Machine Learning    | Universitas Islam Riau    |
 
 ## LOGO
