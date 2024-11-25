@@ -14,6 +14,11 @@ This project is part of the (Studi Independen) program of Bangkit Academy 2024 b
 | Kartika Natalia Tumangger   | M308B4KX2145     | Mobile Development    | Universitas Riau    |
 | M. Rafli Azriansyah   | M443B4KY2327      | Machine Learning    | Universitas Islam Riau    |
 
+## LOGO
+
+<p align="center">
+  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/edit/main/logo.png" style="width:100%;">
+</p>
 
 ## About
 The Cassava Disease Detection System application aims to provide an AI-driven solution for the rapid and accurate detection of Cassava plant diseases. Utilizing a dataset containing images of Cassava leaves affected by four major diseases—Cassava Bacterial Blight, Cassava Brown Spot, Cassava Green Mite, and Cassava Mosaic—alongside healthy samples, this application is designed to support farmers. 
