@@ -3,7 +3,7 @@
 
 This project is part of the (Studi Independen) program of Bangkit Academy 2024 by Google, GoTo, and Traveloka.
 
-## Team Members – C241-PS284
+## Team Members – C242-PS229
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Muhammad Reza Sajidin    | A308B4KY3036       | Mobile Development     | Universitas Riau     |
