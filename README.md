@@ -17,7 +17,7 @@ This project is part of the (Studi Independen) program of Bangkit Academy 2024 b
 ## LOGO
 
 <p align="center">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/edit/main/logo.png" style="width:100%;">
+  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/logo.png" style="width:100%;">
 </p>
 
 ## About
