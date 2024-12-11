@@ -43,7 +43,6 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
   - Docker
 
 
-=======
 
 # PETIS CAPSTONE
 
