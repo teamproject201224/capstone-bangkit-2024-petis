@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # PETIS CAPSTONE
 
 This project is part of the (Studi Independen) program of Bangkit Academy 2024 by Google, GoTo, and Traveloka.
@@ -90,6 +88,3 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
   - VScode
   - Postman
   - Docker
-
-
->>>>>>> fa8df54d478df3d7951f0c3657900702a5d92758
