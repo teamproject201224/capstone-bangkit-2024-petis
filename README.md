@@ -28,6 +28,7 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
   - TensorFlow
   - Google Colab
   - Flask
+  - keras
   
 
 - **Mobile Development:**
