@@ -34,6 +34,8 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
   - Android Studio
   - Kotlin
   - Figma
+  - Github
+  - Retrofit
 
 
 - **Cloud Computing:**
