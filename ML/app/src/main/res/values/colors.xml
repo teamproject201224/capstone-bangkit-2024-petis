@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#24AF09</color>
+    <color name="primary_green">#24AF09</color>
+    <color name="white">#FEFEFE</color>
+    <color name="secondary_green">#24AF09</color>
+    <color name="light_green">#2AB81A</color>
+    <color name="bg_green">#F5F8F6</color>
+    <color name="text_black">#333333</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_primary_variant">#0A3002</color>
+    <color name="dark_on_surface">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3FFFFFF</color>
+    <color name="semi_transparent_black">#80000000</color>
+    <color name="red">#FF0000</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_icon_color">#24AF09</color>
+    <color name="bottom_nav_background">#FFFFFF</color>
+
+    <color name="primary_green_dark">#24AF09</color>
+    <color name="primary_green_light">#81C784</color>
+
+    <!-- Aksen Warna -->
+    <color name="accent_green">#8BC34A</color>
+    <color name="background_light">#E8F5E9</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="flash_on_color">#FFEB3B</color>
+    <color name="flash_off_color">#FFFFFF</color>
+
+    <!-- Overlay -->
+    <color name="overlay_background">#80212121</color>
+    <!-- Warna untuk tab -->
+    <color name="tab_active_color">#24AF09</color>
+    <color name="tab_inactive_color">#80A0A0A0</color>
+
+    <!-- Warna background onboarding -->
+    <color name="onboarding_page1_bg">#D4F6E5</color>
+    <color name="onboarding_page2_bg">#D4F6E5</color>
+    <color name="onboarding_page3_bg">#D4F6E5</color>
+
+    <color name="primary_dark">#333333</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="semi_transparent">#80000000</color>
+    <color name="light_gray">#757575</color>
+
+</resources>
