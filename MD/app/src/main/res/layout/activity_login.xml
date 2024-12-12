@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/white"
+    tools:context=".ui.auth.LoginActivity">
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/login" />
+
+    <TextView
+        android:id="@+id/loginTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:textStyle="bold"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:textColor="#888686"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/emailLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="35dp"
+        style="@style/LoginTextInputLayoutStyle"
+        app:startIconDrawable="@drawable/ic_email"
+        android:hint="Email"
+        app:startIconTint="@color/gray"
+        app:hintTextColor="@color/hint_color_selector">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:backgroundTint="@color/transparent"
+            android:textColor="@color/text_color_selector"
+            android:textColorHint="@color/hint_color_selector"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/passLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="10dp"
+        style="@style/LoginTextInputLayoutStyle"
+        app:startIconDrawable="@drawable/ic_lock"
+        app:passwordToggleEnabled="true"
+        android:hint="Password"
+        app:startIconTint="@color/gray"
+        app:hintTextColor="@color/hint_color_selector">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/passET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:backgroundTint="@color/transparent"
+            android:textColor="@color/text_color_selector"
+            android:textColorHint="@color/hint_color_selector"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LOGIN"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/primary_green"
+        android:layout_marginHorizontal="30dp"/>
+
+    <TextView
+        android:id="@+id/signupTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't have an Account? Sign Up"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/text_color_selector"/>
+</LinearLayout>
