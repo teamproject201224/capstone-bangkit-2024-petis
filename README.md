@@ -32,8 +32,8 @@ PETIS (Pest Identification System) is a cutting-edge application designed to add
   <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot2.jpg" alt="Screenshot 2" width="25%" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot3.jpg" alt="Screenshot 3" width="25%" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot4.jpg" alt="Screenshot 4" width="25%">
-  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot1.jpg" alt="Screenshot 1" width="25%" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot2.jpg" alt="Screenshot 2" width="25%" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot5.jpg" alt="Screenshot 1" width="25%" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot6.jpg" alt="Screenshot 2" width="25%" style="margin-right: 10px;">
 </p>
 
 ## Built With
