@@ -39,8 +39,8 @@ PETIS (Pest Identification System) is a cutting-edge application designed to add
 ## Download APK
 [Download APK here](https://drive.google.com/file/d/1hTbwhD6-RQrNqbWzI30qsvIJEkB0n820/view?usp=drive_link)
 
-<p align="center">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/Barcode.png" alt="Barcode" style="width:50%;">
+<p align="left">
+  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/Barcode.png" alt="Barcode" style="width:30%;">
 </p>
 
 ## Built With
