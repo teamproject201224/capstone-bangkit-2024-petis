@@ -20,7 +20,7 @@ This project is part of the (Studi Independen) program of Bangkit Academy 2024 b
 </p>
 
 ## About
-The Cassava Disease Detection System application aims to provide an AI-driven solution for the rapid and accurate detection of Cassava plant diseases. Utilizing a dataset containing images of Cassava leaves affected by four major diseases—Cassava Bacterial Blight, Cassava Brown Spot, Cassava Green Mite, and Cassava Mosaic—alongside healthy samples, this application is designed to support farmers. 
+PETIS (Pest Identification System) is a cutting-edge application designed to address the challenges faced by cassava and cashew farmers in detecting and managing pest attacks early, which often lead to significant crop damage and reduced yields. This AI-driven solution leverages Machine Learning algorithms to predict and identify pests and plant diseases, providing actionable insights and recommendations for pest control. Using a public dataset from Kaggle, the development team cleaned and balanced the dataset to ensure uniformity across classes, performed augmentation to enhance data quality, and trained a MobileNetV2 model, achieving an accuracy of 86%. The application integrates seamlessly with user-friendly mobile interfaces developed using Kotlin in Android Studio, featuring intuitive designs for scanning, result display, and history tracking. With Retrofit library integration, the app retrieves data from backend APIs hosted on Google Cloud Platform, ensuring scalability and efficiency. PETIS empowers farmers and agricultural stakeholders to make informed decisions, improving crop protection, productivity, and sustainability in agriculture.
 
 ## Screenshots
 <p align="center">
