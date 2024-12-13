@@ -60,3 +60,23 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
   - VScode
   - Postman
   - Docker
+
+## Architecture Overview
+<p align="center">
+  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/Architecture.png" style="width:100%;">
+</p>
+
+## Getting Started
+
+- **Prerequisites:**
+  - Android Device
+  - Internet Connection
+  - Google Account
+
+- **Installation:**
+  - Download the .apk file.
+  - Install the application on your device.
+  - Open the app.
+ 
+## Demo Video
+[Link here](https://drive.google.com/drive/folders/1zA7QgUQfmzsl_apVRTM7fCg9YRDcPKu1?hl=ID) - Demo Video
