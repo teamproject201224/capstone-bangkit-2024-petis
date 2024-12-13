@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.teamproject.petis.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_photo"
+        android:name="com.teamproject.petis.ui.photo.PhotoFragment"
+        android:label="Scan"
+        tools:layout="@layout/fragment_photo">
+        <argument
+            android:name="hideActionBar"
+            app:argType="boolean"
+            android:defaultValue="true" />
+        <argument
+            android:name="hideBottomNav"
+            app:argType="boolean"
+            android:defaultValue="true" />
+        <argument
+            android:name="hideFab"
+            app:argType="boolean"
+            android:defaultValue="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.teamproject.petis.ui.history.HistoryFragment"
+        tools:layout="@layout/fragment_history" />
+</navigation>

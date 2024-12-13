@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "372352617560",
+    "firebase_url": "https://petis-api-70c8c-default-rtdb.firebaseio.com",
+    "project_id": "petis-api-70c8c",
+    "storage_bucket": "petis-api-70c8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372352617560:android:c80a6e571f76ad66580e2d",
+        "android_client_info": {
+          "package_name": "com.reza.testcapstone2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbEapZsHqaP3YSgk-iBF4RqjrmzcuLA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372352617560:android:8eb31771edc19364580e2d",
+        "android_client_info": {
+          "package_name": "com.teamproject.petis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbEapZsHqaP3YSgk-iBF4RqjrmzcuLA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
