@@ -28,11 +28,12 @@ The Cassava Disease Detection System application aims to provide an AI-driven so
 </p>
 
 <p align="center">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/screenshot1" width="30%" style="margin-right: 10px;">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/screenshot2" width="30%" style="margin-right: 10px;">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/screenshot3" width="30%" style="margin-right: 10px;">
-  <img src="https://github.com/teamproject201224/capstone-bangkit-2024-petis/blob/main/screenshot4" width="30%">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot1.jpg" alt="Screenshot 1" width="25%" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot2.jpg" alt="Screenshot 2" width="25%" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot3.jpg" alt="Screenshot 3" width="25%" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/teamproject201224/capstone-bangkit-2024-petis/main/screenshot4.jpg" alt="Screenshot 4" width="25%" style="margin-right: 0;">
 </p>
+
 
 
 ## Built With
